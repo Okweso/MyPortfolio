@@ -14,9 +14,9 @@ const projects = [
     link: 'https://github.com/Okweso/YT-Video-Saver'
   },
   {
-    title: 'Techiswall Blog Website',
-    description: 'This blog website provides information on the latest innovation and trends in technology. Technology is advancing at a high rate and people need to be informed and aware of the new advancements as they arise. Technologies used include WordPress Themes and Plugins, SEO tools like All in One SEO, and Google Analytics',
-    link: 'https://techieswall.com/'
+    title: 'Shirikisha Platform',
+    description: 'Shirikisha is a public participation platform for Kenyan citizens to engage with current affairs, express their opinions on various issues (bills, policies, or matters of national importance), and analyze public sentiment. The platform allows users to submit opinions anonymously and view real-time analysis of public sentiment, helping decision-makers understand the pulse of the people.',
+    link: 'https://github.com/Okweso/Shirikisha-Platform'
   },
   {
     title: 'Ecommerce Website',
